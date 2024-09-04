@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Backtrack.cs" />
     <Compile Include="DP.cs" />
     <Compile Include="Fibonnaci.cs" />
     <Compile Include="Find_uniquepath.cs" />
@@ -54,6 +55,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="stack.cs" />
+    <Compile Include="Sudoku.cs" />
+    <Compile Include="TowerofHanoi.cs" />
+    <Compile Include="twopointer.cs" />
     <Compile Include="Unique_permu.cs" />
   </ItemGroup>
   <ItemGroup>

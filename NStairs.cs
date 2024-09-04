@@ -155,4 +155,67 @@ namespace ConsoleApp2
         }
     }
 
+
+    public class Minperf_sqr
+    {
+        int[] DP;
+        int N ;
+        public Minperf_sqr(int NN) 
+        {
+            N = NN;
+            DP = new int[N+1];
+            for (int uu=0;uu<=N; uu++)
+            { DP[uu] = -1; }
+
+            DP[0] = 0;
+        }
+        public int calc_Perf_sqr()
+        {
+            int ans;
+            for (int i=1;i<=N;i++)
+            {
+                ans = i;
+                for (int j=1;j*j<=i;j++)
+                {
+                    ans=Math.Min(ans, 1+ DP[i-(j*j)]);
+                }
+                DP[i] = ans;
+            }
+            return DP[N];
+        }
+    }
+
+    public class Maxsubseq_sum
+    {
+        int[] DP;
+
+        public int calc_Max_subSeq_SUM(List<int> liss)
+        {
+            DP= new int[liss.Count];
+            DP[0] = liss[0];
+            DP[1] = Math.Max(liss[0], liss[1]);
+            for (int i=2;i< liss.Count; i++)
+            {
+                int ans= liss[i];
+                DP[i] = Math.Max(liss[i] + DP[i - 2], DP[i - 1]);
+            }
+            return DP[liss.Count - 1];
+        }
+
+        public int calc_Max_subSeq_SUM_Space1(List<int> liss)
+        {
+            
+            int a = liss[0];
+            int b = Math.Max(liss[0], liss[1]);
+            int c = 0;
+            for (int i = 2; i < liss.Count; i++)
+            {
+
+                c = Math.Max(liss[i] + a, b);
+                a = b;
+                b = c;
+            }
+            return c;
+        }
+    }
 }

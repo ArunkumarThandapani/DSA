@@ -13,9 +13,55 @@ namespace ConsoleApp2
         private protected int myValue = 0;       
         static void Main(string[] args)
         {
-            #region
+            #region sudoko_solver
 
-                NoOfPairs No_Of_pair = new NoOfPairs(5);
+            Sudoku sudo = new Sudoku();
+            sudo.solver(0);
+
+            #endregion
+
+
+
+            #region Backtracking
+            Backtrack BT = new Backtrack();
+            BT.create_lists(5);
+
+            int[] nums =new int[3]{ 1,2,3};
+            Backtrack_num BTN = new Backtrack_num();
+            BTN.Permute(nums);
+
+            #endregion
+
+
+            #region towpoint
+
+            Twopointer TP = new Twopointer();
+            bool add_fnd= TP.addval_fnd(17);
+            bool sub_fnd = TP.sub_val_fnd(5);
+            int water=TP.water_trapping();
+
+            #endregion
+
+            #region tower of Hanoi
+
+            TowerofHanoi TH = new TowerofHanoi();
+            #endregion
+            #region min_perf_sqr
+            Minperf_sqr MInsqr = new Minperf_sqr(24);
+            int ans=MInsqr.calc_Perf_sqr();
+            #endregion
+
+            #region Max_subsequence_sum
+            Maxsubseq_sum max_subeq_sum= new Maxsubseq_sum();
+            int ret_val=max_subeq_sum.calc_Max_subSeq_SUM(new List<int> { 9, 4, 13, 24 });
+            int ret_val1 = max_subeq_sum.calc_Max_subSeq_SUM_Space1(new List<int> { 9, 4, 13, 24 });
+
+
+            #endregion 
+
+            #region NO_OF_Pair
+
+            NoOfPairs No_Of_pair = new NoOfPairs(5);
                 int pair_cnt = No_Of_pair.calc_Possible_Pair_count_with_arr(5);
                 int pair_cn = No_Of_pair.calc_Possible_Pair_count_without_arr(5);
 
@@ -52,22 +98,22 @@ namespace ConsoleApp2
             #endregion
 
             #region DJIkstra
-            DJI_kstra DJik = new DJI_kstra();
-            int[] distance = DJik.Solve_shortpath();
+                DJI_kstra DJik = new DJI_kstra();
+                int[] distance = DJik.Solve_shortpath();
 
             #endregion
 
 
             #region tries
-            Treis treis = new Treis();
-            treis.Insert("Arun");
-            treis.Insert("Rahini");
-            treis.Insert("Arwin");
-            treis.Insert("Aarya");
+                Treis treis = new Treis();
+                treis.Insert("Arun");
+                treis.Insert("Rahini");
+                treis.Insert("Arwin");
+                treis.Insert("Aarya");
 
 
-            treis.search("Arwin");
-            treis.search("Aary");
+                treis.search("Arwin");
+                treis.search("Aary");
             #endregion
 
 
