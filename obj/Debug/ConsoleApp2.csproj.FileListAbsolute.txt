@@ -5,3 +5,10 @@ C:\Data\DSA\ConsoleApp2\bin\Debug\ConsoleApp2.exe
 C:\Data\DSA\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 C:\Data\DSA\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Data\DSA\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Data\DSA\DSA Codes\DSA\bin\Debug\ConsoleApp2.exe.config
+C:\Data\DSA\DSA Codes\DSA\bin\Debug\ConsoleApp2.exe
+C:\Data\DSA\DSA Codes\DSA\bin\Debug\ConsoleApp2.pdb
+C:\Data\DSA\DSA Codes\DSA\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Data\DSA\DSA Codes\DSA\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Data\DSA\DSA Codes\DSA\obj\Debug\ConsoleApp2.exe
+C:\Data\DSA\DSA Codes\DSA\obj\Debug\ConsoleApp2.pdb

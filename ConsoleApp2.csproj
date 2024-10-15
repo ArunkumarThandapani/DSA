@@ -44,13 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Backtrack.cs" />
+    <Compile Include="BinaryTree.cs" />
     <Compile Include="DP.cs" />
     <Compile Include="Fibonnaci.cs" />
     <Compile Include="Find_uniquepath.cs" />
     <Compile Include="Graph.cs" />
+    <Compile Include="LIS.cs" />
     <Compile Include="ListCompare.cs" />
     <Compile Include="LL.cs" />
     <Compile Include="merge.cs" />
+    <Compile Include="NQueen.cs" />
     <Compile Include="NStairs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

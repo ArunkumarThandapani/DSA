@@ -13,6 +13,27 @@ namespace ConsoleApp2
         private protected int myValue = 0;       
         static void Main(string[] args)
         {
+
+            #region stack_next_largest_int
+            stack stak= new stack();
+            //stak.nextGreater(new List<int>() { 34, 35, 22, 28, 54, 12, 25, 41 });
+            stak.nxtGenerator_stk(new int[] { 34, 35, 22, 28, 54, 12, 25, 41 });
+            stak.nextGreater(new List<int>() { 1,2,3,4,3});
+
+            #endregion
+
+
+            #region Longest_increasing_subsequence
+            LIS lIS = new LIS();
+            lIS.LIS_recursion();
+
+            #endregion
+
+            #region NQueen
+
+            NQueen nq = new NQueen(4);
+            #endregion 
+
             #region sudoko_solver
 
             Sudoku sudo = new Sudoku();
@@ -85,14 +106,16 @@ namespace ConsoleApp2
 
 
             #region Graph
-            //Graph grp= new Graph();
-            //int uu=grp.BFS(1, 2);
+            Graph grp = new Graph();
+            int uu = grp.BFS(1, 5);
+
+            bool cc = grp.DFS(1, 5);
 
             #endregion
 
             #region stack
 
-                stack stk = new stack();
+            stack stk = new stack();
                 stk.chk_string("(){");
 
             #endregion
@@ -188,12 +211,15 @@ namespace ConsoleApp2
 
 
             #region Linked_list
-                List<int> int_lst = new List<int>() { 1, 2, 3, 4, 5, 5 };
+                List<int> int_lst = new List<int>() { 1, 5  };
                 LL bs = new LL();
                 LL reff=bs.return_ll(int_lst);
 
-                reff= bs.return_Fun_LL(int_lst);    
+                LL rev_sted = bs.reverse(reff, 1, 2);
 
+                reff = bs.return_Fun_LL(int_lst);
+
+                
 
                 LL rev_LL =bs.reverse_LL_base_int(reff, 3);
 

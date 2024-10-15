@@ -1,65 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Data\\DSA\\ConsoleApp2\\",
+  "WorkspaceRootPath": "C:\\Data\\DSA\\DSA Codes\\DSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\unique_permu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:unique_permu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\dsa codes\\dsa\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\dp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:dp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\consoleapp2\\sudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:sudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\consoleapp2\\backtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:backtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\consoleapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\dsa codes\\dsa\\ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\listcompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:listcompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\nstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:nstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\consoleapp2\\towerofhanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:towerofhanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|c:\\data\\dsa\\consoleapp2\\twopointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:twopointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\fibonnaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\lis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:lis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\sudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:sudoku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\nqueen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:nqueen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\unique_permu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:unique_permu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\dp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:dp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\backtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:backtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\listcompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:listcompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\nstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:nstairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\towerofhanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:towerofhanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\twopointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:twopointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\fibonnaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:fibonnaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\ConsoleApp2\\find_uniquepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|C:\\Data\\DSA\\DSA Codes\\DSA\\find_uniquepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDDEAE71-DD0D-4F91-BCDC-EAE01AE5B8F4}|ConsoleApp2.csproj|solutionrelative:find_uniquepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,198 +94,221 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sudoku.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\Sudoku.cs",
-              "RelativeDocumentMoniker": "Sudoku.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\Sudoku.cs",
-              "RelativeToolTip": "Sudoku.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCIAAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T12:29:39.648Z",
+              "WhenOpened": "2024-09-18T05:57:52.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Backtrack.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\Backtrack.cs",
-              "RelativeDocumentMoniker": "Backtrack.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\Backtrack.cs",
-              "RelativeToolTip": "Backtrack.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAAMAAAA",
+              "Title": "Sudoku.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\Sudoku.cs",
+              "RelativeDocumentMoniker": "Sudoku.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\Sudoku.cs",
+              "RelativeToolTip": "Sudoku.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwC4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T04:58:57.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T12:29:39.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "twopointer.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\twopointer.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\twopointer.cs",
               "RelativeDocumentMoniker": "twopointer.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\twopointer.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\twopointer.cs",
               "RelativeToolTip": "twopointer.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAYwD0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T07:18:20.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T07:18:20.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "TowerofHanoi.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\TowerofHanoi.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\TowerofHanoi.cs",
               "RelativeDocumentMoniker": "TowerofHanoi.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\TowerofHanoi.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\TowerofHanoi.cs",
               "RelativeToolTip": "TowerofHanoi.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAYwBgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T05:59:04.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T05:59:04.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "NStairs.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\NStairs.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\NStairs.cs",
               "RelativeDocumentMoniker": "NStairs.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\NStairs.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\NStairs.cs",
               "RelativeToolTip": "NStairs.cs",
               "ViewState": "AQIAAJ4AAAAAAAAAAADwv6sAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:35:14.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Graph.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\Graph.cs",
-              "RelativeDocumentMoniker": "Graph.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\Graph.cs",
-              "RelativeToolTip": "Graph.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-25T04:21:49.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ListCompare.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\ListCompare.cs",
-              "RelativeDocumentMoniker": "ListCompare.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\ListCompare.cs",
-              "RelativeToolTip": "ListCompare.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-15T11:12:45.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T06:35:14.414Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\Graph.cs",
+              "RelativeDocumentMoniker": "Graph.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\Graph.cs",
+              "RelativeToolTip": "Graph.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAkwI0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-25T04:21:49.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAWwNkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-12T04:54:51.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LL.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\LL.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\LL.cs",
               "RelativeDocumentMoniker": "LL.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\LL.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\LL.cs",
               "RelativeToolTip": "LL.cs",
-              "ViewState": "AQIAAA4BAAAAAAAAAAAAABoBAAAJAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAWwHsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-06-15T11:10:32.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Unique_permu.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\Unique_permu.cs",
-              "RelativeDocumentMoniker": "Unique_permu.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\Unique_permu.cs",
-              "RelativeToolTip": "Unique_permu.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAA0AAAA",
+              "DocumentIndex": 3,
+              "Title": "stack.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\stack.cs",
+              "RelativeDocumentMoniker": "stack.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\stack.cs",
+              "RelativeToolTip": "stack.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAWwGQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-15T11:09:38.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-04T13:07:44.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-05-12T04:54:51.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-07-24T16:39:15.083Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "stack.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\stack.cs",
-              "RelativeDocumentMoniker": "stack.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\stack.cs",
-              "RelativeToolTip": "stack.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAAAMAAAA",
+              "Title": "ListCompare.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\ListCompare.cs",
+              "RelativeDocumentMoniker": "ListCompare.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\ListCompare.cs",
+              "RelativeToolTip": "ListCompare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-24T16:39:15.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-06-15T11:12:45.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Unique_permu.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\Unique_permu.cs",
+              "RelativeDocumentMoniker": "Unique_permu.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\Unique_permu.cs",
+              "RelativeToolTip": "Unique_permu.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-15T11:09:38.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Backtrack.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\Backtrack.cs",
+              "RelativeDocumentMoniker": "Backtrack.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\Backtrack.cs",
+              "RelativeToolTip": "Backtrack.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:58:57.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-04T13:07:44.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LIS.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\LIS.cs",
+              "RelativeDocumentMoniker": "LIS.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\LIS.cs",
+              "RelativeToolTip": "LIS.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:25:07.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NQueen.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\NQueen.cs",
+              "RelativeDocumentMoniker": "NQueen.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\NQueen.cs",
+              "RelativeToolTip": "NQueen.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:39:44.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DP.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\DP.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\DP.cs",
               "RelativeDocumentMoniker": "DP.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\DP.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\DP.cs",
               "RelativeToolTip": "DP.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-15T11:16:19.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-06-15T11:16:19.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Find_uniquepath.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\Find_uniquepath.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\Find_uniquepath.cs",
               "RelativeDocumentMoniker": "Find_uniquepath.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\Find_uniquepath.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\Find_uniquepath.cs",
               "RelativeToolTip": "Find_uniquepath.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-15T11:11:25.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-06-15T11:11:25.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Fibonnaci.cs",
-              "DocumentMoniker": "C:\\Data\\DSA\\ConsoleApp2\\Fibonnaci.cs",
+              "DocumentMoniker": "C:\\Data\\DSA\\DSA Codes\\DSA\\Fibonnaci.cs",
               "RelativeDocumentMoniker": "Fibonnaci.cs",
-              "ToolTip": "C:\\Data\\DSA\\ConsoleApp2\\Fibonnaci.cs",
+              "ToolTip": "C:\\Data\\DSA\\DSA Codes\\DSA\\Fibonnaci.cs",
               "RelativeToolTip": "Fibonnaci.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-15T11:20:44.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-06-15T11:20:44.822Z"
             }
           ]
         },

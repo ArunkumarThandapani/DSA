@@ -90,6 +90,47 @@ namespace ConsoleApp2
             A.next_node = cur;
             return prev;
         }
+
+        public LL reverse(LL A,int st,int ed)
+        {
+            if (A == null)  return null;
+            LL fst = null;
+            LL sec = null;
+            LL cur = A;
+            LL prev = null;
+            LL tmp=null;
+            int cnt = 1;
+            while (cur!=null)
+            {
+                if (cnt < st)
+                {
+                    fst = cur;
+                    cur = cur.next_node;
+                    
+                }
+                else if (cnt >= st && cnt <= ed)
+                {
+                    if (cnt == st) sec = cur;
+                    tmp = cur.next_node;
+                    cur.next_node = prev;
+                    prev = cur;
+                    cur = tmp;
+                    if (cnt == ed)
+                    {
+                        if (fst == null) { fst = prev; head = fst; }
+                        else fst.next_node = prev;
+
+                        sec.next_node = tmp;
+                        break;
+                    }
+                        
+                    
+                }
+                cnt++;
+            }
+
+            return head;
+        }
         public LL reverse(LL A, int B)
         {
             if (A == null) return null;
